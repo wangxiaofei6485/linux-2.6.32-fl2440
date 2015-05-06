@@ -1,0 +1,1 @@
+cmd_fs/configfs/configfs.ko := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL -r  -T /home/wxf/kernel_code/linux-2.6.32.2/scripts/module-common.lds --build-id -o fs/configfs/configfs.ko fs/configfs/configfs.o fs/configfs/configfs.mod.o

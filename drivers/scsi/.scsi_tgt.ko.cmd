@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_tgt.ko := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL -r  -T /home/wxf/kernel_code/mini2440/linux-2.6.32.2/scripts/module-common.lds --build-id -o drivers/scsi/scsi_tgt.ko drivers/scsi/scsi_tgt.o drivers/scsi/scsi_tgt.mod.o

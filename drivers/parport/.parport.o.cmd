@@ -1,0 +1,1 @@
+cmd_drivers/parport/parport.o := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL    -r -o drivers/parport/parport.o drivers/parport/share.o drivers/parport/ieee1284.o drivers/parport/ieee1284_ops.o drivers/parport/procfs.o drivers/parport/daisy.o drivers/parport/probe.o 

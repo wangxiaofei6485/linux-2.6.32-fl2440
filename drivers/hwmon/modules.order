@@ -1,0 +1,4 @@
+kernel/drivers/hwmon/hwmon-vid.ko
+kernel/drivers/hwmon/lm75.ko
+kernel/drivers/hwmon/lm78.ko
+kernel/drivers/hwmon/lm85.ko

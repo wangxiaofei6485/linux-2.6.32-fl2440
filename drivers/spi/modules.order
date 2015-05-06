@@ -1,0 +1,6 @@
+kernel/drivers/spi/spi_bitbang.ko
+kernel/drivers/spi/spi_gpio.ko
+kernel/drivers/spi/spi_s3c24xx_gpio.ko
+kernel/drivers/spi/spi_s3c24xx.ko
+kernel/drivers/spi/spidev.ko
+kernel/drivers/spi/tle62x0.ko

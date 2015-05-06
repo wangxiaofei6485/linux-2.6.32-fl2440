@@ -1,0 +1,2 @@
+kernel/drivers/input/mouse/appletouch.ko
+kernel/drivers/input/mouse/bcm5974.ko

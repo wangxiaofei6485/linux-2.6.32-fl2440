@@ -1,0 +1,1 @@
+cmd_drivers/ide/built-in.o :=  /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL    -r -o drivers/ide/built-in.o drivers/ide/ide-core.o drivers/ide/ide-gd_mod.o drivers/ide/ide-cd_mod.o drivers/ide/ide_platform.o 

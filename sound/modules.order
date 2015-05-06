@@ -1,0 +1,17 @@
+kernel/sound/core/oss/snd-mixer-oss.ko
+kernel/sound/core/oss/snd-pcm-oss.ko
+kernel/sound/core/snd-hwdep.ko
+kernel/sound/core/snd-rawmidi.ko
+kernel/sound/core/seq/snd-seq.ko
+kernel/sound/core/seq/snd-seq-device.ko
+kernel/sound/core/seq/snd-seq-midi-event.ko
+kernel/sound/core/seq/oss/snd-seq-oss.ko
+kernel/sound/core/seq/snd-seq-midi.ko
+kernel/sound/core/seq/snd-seq-midi-event.ko
+kernel/sound/pci/ac97/snd-ac97-codec.ko
+kernel/sound/usb/caiaq/snd-usb-caiaq.ko
+kernel/sound/usb/snd-usb-audio.ko
+kernel/sound/usb/snd-usb-lib.ko
+kernel/sound/soc/codecs/snd-soc-ac97.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c2443-ac97.ko
+kernel/sound/soc/s3c24xx/snd-soc-ln2440sbc-alc650.ko

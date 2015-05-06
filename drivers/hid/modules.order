@@ -1,0 +1,2 @@
+kernel/drivers/hid/hid-apple.ko
+kernel/drivers/hid/hid-wacom.ko

@@ -1,0 +1,4 @@
+kernel/drivers/mmc/card/mmc_test.ko
+kernel/drivers/mmc/card/sdio_uart.ko
+kernel/drivers/mmc/host/sdhci.ko
+kernel/drivers/mmc/host/mmc_spi.ko
