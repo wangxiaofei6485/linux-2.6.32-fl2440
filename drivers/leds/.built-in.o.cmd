@@ -1,1 +1,0 @@
-cmd_drivers/leds/built-in.o :=  /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL    -r -o drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-triggers.o drivers/leds/ledtrig-backlight.o 

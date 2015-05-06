@@ -1,1 +1,0 @@
-cmd_net/ipv6/netfilter/nf_conntrack_ipv6.o := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL    -r -o net/ipv6/netfilter/nf_conntrack_ipv6.o net/ipv6/netfilter/nf_conntrack_l3proto_ipv6.o net/ipv6/netfilter/nf_conntrack_proto_icmpv6.o net/ipv6/netfilter/nf_conntrack_reasm.o 

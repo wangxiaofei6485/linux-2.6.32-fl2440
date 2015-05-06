@@ -1,1 +1,0 @@
-cmd_drivers/net/built-in.o :=  /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL    -r -o drivers/net/built-in.o drivers/net/mii.o drivers/net/Space.o drivers/net/loopback.o drivers/net/dm9000.o drivers/net/arm/built-in.o drivers/net/wireless/built-in.o 

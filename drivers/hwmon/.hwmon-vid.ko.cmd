@@ -1,1 +1,0 @@
-cmd_drivers/hwmon/hwmon-vid.ko := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL -r  -T /home/wxf/kernel_code/mini2440/linux-2.6.32.2/scripts/module-common.lds --build-id -o drivers/hwmon/hwmon-vid.ko drivers/hwmon/hwmon-vid.o drivers/hwmon/hwmon-vid.mod.o

@@ -1,1 +1,0 @@
-cmd_drivers/ide/ide-cd_mod.o := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL    -r -o drivers/ide/ide-cd_mod.o drivers/ide/ide-cd.o drivers/ide/ide-cd_ioctl.o drivers/ide/ide-cd_verbose.o 

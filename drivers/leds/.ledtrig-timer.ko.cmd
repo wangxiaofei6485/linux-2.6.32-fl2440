@@ -1,1 +1,0 @@
-cmd_drivers/leds/ledtrig-timer.ko := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL -r  -T /home/wxf/kernel_code/mini2440/linux-2.6.32.2/scripts/module-common.lds --build-id -o drivers/leds/ledtrig-timer.ko drivers/leds/ledtrig-timer.o drivers/leds/ledtrig-timer.mod.o

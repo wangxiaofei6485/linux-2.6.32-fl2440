@@ -1,1 +1,0 @@
-cmd_drivers/mtd/nand/built-in.o :=  /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL    -r -o drivers/mtd/nand/built-in.o drivers/mtd/nand/nand.o drivers/mtd/nand/nand_ecc.o drivers/mtd/nand/nand_ids.o drivers/mtd/nand/s3c2410.o drivers/mtd/nand/gpio.o drivers/mtd/nand/plat_nand.o 

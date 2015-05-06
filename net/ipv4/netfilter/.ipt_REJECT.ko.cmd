@@ -1,1 +1,0 @@
-cmd_net/ipv4/netfilter/ipt_REJECT.ko := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL -r  -T /home/wxf/kernel_code/mini2440/linux-2.6.32.2/scripts/module-common.lds --build-id -o net/ipv4/netfilter/ipt_REJECT.ko net/ipv4/netfilter/ipt_REJECT.o net/ipv4/netfilter/ipt_REJECT.mod.o

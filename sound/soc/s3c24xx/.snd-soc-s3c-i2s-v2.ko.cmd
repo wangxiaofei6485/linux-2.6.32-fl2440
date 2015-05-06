@@ -1,1 +1,0 @@
-cmd_sound/soc/s3c24xx/snd-soc-s3c-i2s-v2.ko := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL -r  -T /home/wxf/桌面/linux/kernel_code/linux-2.6.32.2/scripts/module-common.lds --build-id -o sound/soc/s3c24xx/snd-soc-s3c-i2s-v2.ko sound/soc/s3c24xx/snd-soc-s3c-i2s-v2.o sound/soc/s3c24xx/snd-soc-s3c-i2s-v2.mod.o

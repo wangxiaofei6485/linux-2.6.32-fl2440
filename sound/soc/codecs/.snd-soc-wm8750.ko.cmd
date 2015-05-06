@@ -1,1 +1,0 @@
-cmd_sound/soc/codecs/snd-soc-wm8750.ko := /usr/local/opt/FriendlyARM/toolschain/4.4.3/bin/arm-linux-ld -EL -r  -T /home/wxf/桌面/linux/kernel_code/linux-2.6.32.2/scripts/module-common.lds --build-id -o sound/soc/codecs/snd-soc-wm8750.ko sound/soc/codecs/snd-soc-wm8750.o sound/soc/codecs/snd-soc-wm8750.mod.o
